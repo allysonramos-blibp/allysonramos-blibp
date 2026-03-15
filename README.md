@@ -1,26 +1,87 @@
-## Olá! 👋 Me chamo Allyson Ramos 🙋‍♂️  
-💻 Desenvolvedor em formação • 🎓 Estudante de tecnologia • Apaixoado por violão •
+# 👋 Olá, eu sou Allyson Ramos
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou trilhando minha jornada no universo da tecnologia com muita curiosidade e vontade de aprender.
-Gosto de transformar ideias em soluções práticas. Tenho experiência com **Java** e **.NET**, especialmente em sistemas com interfaces gráficas e funcionalidades CRUD. 
-No momento, estou expandindo meus horizontes com **HTML, CSS, JavaScript** . Ah, e claro, tudo isso com o suporte do **Git** e **GitHub**, que uso para organizar meus projetos e evolução.
+💻 Desenvolvedor Full Stack em formação
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
+🚀 Focado em desenvolvimento Backend com Java e Spring Boot
 
-👨‍💻 Ambiente de desenvolvimento: **Linux Mint**, porque liberdade e estabilidade são essenciais!
-
-Tenho experiência com **Java**, aplicando os princípios da programação orientada a objetos no desenvolvimento de aplicações desktop com interfaces gráficas usando **Swing**. 
-
-Também venho me especializando em **bancos de dados **, especialmente **Oracle** e **SQL Server**, desenvolvendo desde consultas básicas até estruturas mais avançadas como *procedures*, *triggers* e funções armazenadas.
-
+Sou apaixonado por tecnologia e por construir soluções que resolvem problemas reais.
+Atualmente desenvolvo projetos utilizando **Java, Spring Boot, React e bancos de dados relacionais**, criando aplicações completas com backend, frontend e integração com APIs.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas  
-Java •  SQL Server •  HTML • CSS • JavaScript • Git • GitHub • Linux Mint
+# 🚀 Tecnologias e Ferramentas
 
-### 📌 Projetos em destaque  
-- [Sistema de Controle de Estoque](https://github.com/allysonramos-blibp/FinalProjeto) – CRUD completo com .NET e banco SQL SERVER  
-- [Portifolio](https://github.com/allysonramos-blibp/Meu-site) – Projeto pessoal onde estará diposonivel todas as informações sobre mim e projetos.
+### Backend
 
-### 🤝 Conecte-se comigo  
-[LinkedIn](https://www.linkedin.com/in/allyson-ramos-322b1a233/) • [Instagram](https://www.instagram.com/allysonramos09?igsh=ZTRjN3Izcm5xazhq)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
+![Spring](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
 
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+### Mobile
+
+![Android](https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
+
+### Banco de Dados
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql)
+
+### Ferramentas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge\&logo=linux)
+
+---
+
+# 📂 Projetos em Destaque
+
+## 💰 Expense Tracker System
+
+Sistema completo para gerenciamento de gastos pessoais.
+
+Funcionalidades:
+
+* cadastro de usuários
+* controle de despesas
+* categorias de gastos
+* relatórios financeiros
+
+Tecnologias:
+
+* Java
+* Spring Boot
+* PostgreSQL
+
+---
+
+## 🍺 Bar Management System
+
+Sistema de gerenciamento para bares e restaurantes.
+
+Funcionalidades:
+
+* controle de pedidos
+* gerenciamento de produtos
+* controle de estoque
+* fechamento de caixa
+
+Tecnologias:
+
+* Java
+* Spring Boot
+* React
+* MySQL
+
+---
+
+## 📚 Study Manager App
+
+Aplicativo mobile para organização de estudos.
+
+Funcionalidades:
+
+* planejam
