@@ -1,117 +1,163 @@
-# 👋 Olá, eu sou Allyson Ramos
+<h1 align="center">👋 Olá, eu sou Allyson Ramos</h1>
 
-💻 Desenvolvedor em formação
-🎓 Estudante de Análise e Desenvolvimento de Sistemas
-🚀 Focado em desenvolvimento Backend com Java e Spring Boot
+<h3 align="center">
+💻 Full Stack Developer | Java • Spring Boot • React • Android
+</h3>
 
-Sou apaixonado por tecnologia e por criar soluções que resolvem problemas reais. Atualmente estou desenvolvendo projetos utilizando **Java, Spring Boot, React e bancos de dados relacionais**, criando aplicações completas com backend, frontend e integração com APIs.
-
----
-
-# 🚀 Tecnologias e Ferramentas
-
-### Backend
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
-### Mobile
-
-![Android](https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
-
-### Banco de Dados
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql)
-
-### Ferramentas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge\&logo=linux)
+<p align="center">
+Apaixonado por transformar ideias em soluções através da tecnologia.
+</p>
 
 ---
 
-# 📂 Projetos
+# 🚀 Sobre mim
 
-## 💰 Expense Tracker System
+🎓 Formado em **Análise e Desenvolvimento de Sistemas**
 
-Sistema em desenvolvimento para gerenciamento de gastos pessoais.
+💻 Desenvolvedor Full Stack
 
-Funcionalidades planejadas:
+☕ Foco em desenvolvimento Backend com Java e Spring Boot
 
-* cadastro de usuários
-* controle de despesas
-* categorias de gastos
-* relatórios financeiros
-* API REST
+📱 Desenvolvimento Android com Java
 
-Tecnologias utilizadas:
+🌐 Desenvolvimento Web com React
 
-* Java
-* Spring Boot
-* PostgreSQL
+🗄️ Experiência com PostgreSQL, MySQL e SQL Server
+
+☁️ Estudando Cloud Computing
+
+Atualmente desenvolvo aplicações Web e Mobile utilizando arquitetura em camadas, APIs REST e bancos de dados relacionais, sempre buscando escrever código limpo, escalável e de fácil manutenção.
 
 ---
 
-## 🍺 O-Pai-O — Sistema de Gerenciamento de Bar
+# 💻 Stack Tecnológica
 
-Projeto acadêmico para gerenciamento de bar e controle de pedidos.
+## Backend
 
-Funcionalidades:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-* controle de pedidos
-* gerenciamento de produtos
-* controle de estoque
-* interface web
-* integração com banco de dados
+## Front-end
 
-Tecnologias:
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-* Java
-* Spring Boot
-* React
-* MySQL
+## Mobile
 
-📌 Repositório hospedado no GitLab (projeto acadêmico).
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
----
+## Banco de Dados
 
-## 📱 Aplicativo Mobile do Sistema O-Pai-O
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-Aplicativo mobile desenvolvido para integração com o sistema de gerenciamento de bar.
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
-Tecnologias:
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-* Android Studio
-* Java
-* API REST
+## Ferramentas
 
-📌 Repositório privado por se tratar de projeto acadêmico.
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-# 📊 Estatísticas do GitHub
+# 🚀 Projetos em Destaque
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=allysonramos-blibp\&show_icons=true\&theme=tokyonight)
+## 🛡️ Visão Forte Segurança
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=allysonramos-blibp\&layout=compact\&theme=tokyonight)
+Sistema completo de gestão empresarial.
+
+### Tecnologias
+
+- Java
+- Spring Boot
+- React
+- PostgreSQL
+- Android
+- APIs REST
+
+### Funcionalidades
+
+- Dashboard Inteligente
+- Controle Financeiro
+- Fluxo de Caixa
+- Estoque
+- Compras
+- Vendas
+- Contas a Pagar
+- Contas a Receber
+
+---
+
+## 🍺 O-Pai-O
+
+Sistema de gerenciamento para bares e restaurantes.
+
+Tecnologias
+
+- Java
+- Spring Boot
+- React
+- MySQL
+
+Aplicativo Android integrado via API REST.
+
+---
+
+## 💰 Expense Tracker
+
+Sistema de gerenciamento financeiro pessoal.
+
+Em desenvolvimento.
+
+Tecnologias
+
+- Java
+- Spring Boot
+- PostgreSQL
+
+---
+
+# 📈 Estatísticas
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=allysonramos-blibp&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allysonramos-blibp&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
 # 🎯 Objetivo
 
-Busco minha **primeira oportunidade como desenvolvedor**, onde eu possa aplicar meus conhecimentos em desenvolvimento de software, aprender com profissionais experientes e contribuir para a construção de soluções tecnológicas eficientes.
+Meu objetivo é contribuir para projetos que gerem impacto real, aplicando boas práticas de desenvolvimento, arquitetura de software e tecnologias modernas.
+
+Busco evoluir continuamente como desenvolvedor, aprendendo novas tecnologias e criando soluções robustas, escaláveis e de qualidade.
 
 ---
 
-# 📫 Contato
+# 📫 Vamos conectar?
 
-💼 LinkedIn:(https://www.linkedin.com/in/allyson-ramos-322b1a233/)
-📧 Email: allysonramos350@gmail.com
+💼 LinkedIn
+
+www.linkedin.com/in/allyson-ramos-322b1a233/
+
+📧 allysonramos350@gmail.com
+
+📷 Instagram
+
+@allysonramos.tech
+
+---
+
+<p align="center">
+
+⭐ Sempre desenvolvendo soluções que geram valor.
+
+</p>
