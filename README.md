@@ -1,163 +1,46 @@
-<h1 align="center">👋 Olá, eu sou Allyson Ramos</h1>
-
-<h3 align="center">
-💻 Full Stack Developer | Java • Spring Boot • React • Android
-</h3>
+<h1 align="center">Allyson Ramos</h1>
+<h3 align="center">Backend Software Engineer | Java • Spring Boot • Cloud & Distributed Systems</h3>
 
 <p align="center">
-Apaixonado por transformar ideias em soluções através da tecnologia.
+  Engenheiro de Software com foco no ecossistema <b>Java & Spring Boot</b>, especializado na construção de APIs RESTful escaláveis, seguras e com arquitetura em camadas bem delimitada. Experiência prática em modelagem relacional (PostgreSQL), autenticação stateless (JWT/Spring Security) e infraestrutura em contêineres (Docker).
 </p>
 
 ---
 
-# 🚀 Sobre mim
+### 🛠️ Core Stack & Engenharia
 
-🎓 Formado em **Análise e Desenvolvimento de Sistemas**
-
-💻 Desenvolvedor Full Stack
-
-☕ Foco em desenvolvimento Backend com Java e Spring Boot
-
-📱 Desenvolvimento Android com Java
-
-🌐 Desenvolvimento Web com React
-
-🗄️ Experiência com PostgreSQL, MySQL e SQL Server
-
-☁️ Estudando Cloud Computing
-
-Atualmente desenvolvo aplicações Web e Mobile utilizando arquitetura em camadas, APIs REST e bancos de dados relacionais, sempre buscando escrever código limpo, escalável e de fácil manutenção.
+- **Backend:** Java 17/21, Spring Boot 3, Spring Security 6 (JWT), Spring Data JPA, Hibernate, Maven.
+- **Bancos de Dados:** PostgreSQL, MySQL, Migrações com Flyway, Pool HikariCP.
+- **Arquitetura & Qualidade:** Clean Architecture, RFC 7807 (Problem Details), Testes Unitários e de Integração com JUnit 5 & Mockito.
+- **Cloud & DevOps:** Docker, Docker Compose, Linux, Git/GitHub, Deploy Cloud (Neon, Render, Vercel).
+- **Frontend & Mobile Integrado:** React, TypeScript, PWA (Service Workers / Web Push) e Android Nativo (Java).
 
 ---
 
-# 💻 Stack Tecnológica
+### 🚀 Projetos em Destaque
 
-## Backend
+#### 🏛️ [Nexus Platform — Arquitetura de Backend & Systems Design](https://github.com/allysonramos-blibp/nexus-backend-architecture)
+> **Vitrine de Arquitetura & Engenharia de Software**  
+> Documentação técnica completa da API do Nexus Platform, incluindo diagramas C4 (Contexto, Contêineres e Componentes), modelagem ERD em PostgreSQL, pipeline de segurança JWT Stateless e ADRs (Architectural Decision Records).  
+> `Java 17` • `Spring Boot 3` • `Spring Security 6` • `PostgreSQL` • `Docker` • `OpenAPI`
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-
-## Front-end
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-## Mobile
-
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-## Banco de Dados
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
-## Ferramentas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+#### 📱 [DevLapa — Sistema Operacional para Bares & Restaurantes](https://github.com/allysonramos-blibp/devlapa-app)
+> Sistema integrado de gestão operacional e financeira para bares e restaurantes, com aplicativo cliente Android consumindo API REST corporativa desenvolvida em Spring Boot e PostgreSQL.  
+> `Java` • `Spring Boot` • `PostgreSQL` • `Android` • `RESTful API`
 
 ---
 
-# 🚀 Projetos em Destaque
-
-## 🛡️ Visão Forte Segurança
-
-Sistema completo de gestão empresarial.
-
-### Tecnologias
-
-- Java
-- Spring Boot
-- React
-- PostgreSQL
-- Android
-- APIs REST
-
-### Funcionalidades
-
-- Dashboard Inteligente
-- Controle Financeiro
-- Fluxo de Caixa
-- Estoque
-- Compras
-- Vendas
-- Contas a Pagar
-- Contas a Receber
-
----
-
-## 🍺 O-Pai-O
-
-Sistema de gerenciamento para bares e restaurantes.
-
-Tecnologias
-
-- Java
-- Spring Boot
-- React
-- MySQL
-
-Aplicativo Android integrado via API REST.
-
----
-
-## 💰 Expense Tracker
-
-Sistema de gerenciamento financeiro pessoal.
-
-Em desenvolvimento.
-
-Tecnologias
-
-- Java
-- Spring Boot
-- PostgreSQL
-
----
-
-# 📈 Estatísticas
+### 📊 Métricas no GitHub
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=allysonramos-blibp&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allysonramos-blibp&layout=compact&theme=tokyonight"/>
-
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=allysonramos-blibp&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allysonramos-blibp&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 🎯 Objetivo
+### 📫 Conecte-se Comigo
 
-Meu objetivo é contribuir para projetos que gerem impacto real, aplicando boas práticas de desenvolvimento, arquitetura de software e tecnologias modernas.
-
-Busco evoluir continuamente como desenvolvedor, aprendendo novas tecnologias e criando soluções robustas, escaláveis e de qualidade.
-
----
-
-# 📫 Vamos conectar?
-
-💼 LinkedIn
-
-www.linkedin.com/in/allyson-ramos-322b1a233/
-
-📧 allysonramos350@gmail.com
-
-📷 Instagram
-
-@allysonramos.tech
-
----
-
-<p align="center">
-
-⭐ Sempre desenvolvendo soluções que geram valor.
-
-</p>
+- **LinkedIn:** [linkedin.com/in/allyson-ramos-322b1a233/](https://www.linkedin.com/in/allyson-ramos-322b1a233/)
+- **E-mail Profissional:** [allysonr510@gmail.com](mailto:allysonr510@gmail.com)
+- **Portfólio & GitHub:** [github.com/allysonramos-blibp](https://github.com/allysonramos-blibp)
