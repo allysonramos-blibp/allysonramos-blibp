@@ -107,20 +107,17 @@
 ## 📊 Dashboard GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=allysonramos-blibp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allysonramos-blibp&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=allysonramos-blibp&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=allysonramos-blibp&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=allysonramos-blibp&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" />
+  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" />
 </p>
 
 ---
